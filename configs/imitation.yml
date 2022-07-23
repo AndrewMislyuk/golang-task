@@ -1,0 +1,5 @@
+sender_time: 2s
+
+receiver_time: 5s
+
+stop_time: 60s
